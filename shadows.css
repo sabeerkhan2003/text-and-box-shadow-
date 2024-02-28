@@ -1,0 +1,15 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); /* horizontal-offset vertical-offset blur spread color */
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  .text {
+    color: #333333;
+    text-shadow: 2px 2px 4px rgba(250, 0, 0, 0.903); /* horizontal-offset vertical-offset blur color */
+    margin-top: 80px;
+  }
+  
